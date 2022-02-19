@@ -1,0 +1,9 @@
+{
+	"name": "hsadf-report",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99bb521a-cda0-4b66-876e-f9b3ae279779",
+		"tenantId": "2e89f5f2-16ec-471a-a90b-ad59d4f35dce"
+	}
+}
